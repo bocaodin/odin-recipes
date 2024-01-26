@@ -28,3 +28,8 @@ table {
     border-collapse: separate;
     border-spacing: 10px;
 }
+
+.home-page {
+    margin-top: auto;
+    margin-bottom: auto;
+}
