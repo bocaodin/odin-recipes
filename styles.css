@@ -1,0 +1,30 @@
+* {
+    line-height: 2;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align: center;   
+}
+
+.center-align-body {
+    text-align: left;
+}
+
+.home-page-list {
+    list-style: none;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: separate;
+    border-spacing: 10px;
+}
